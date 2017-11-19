@@ -1,0 +1,8 @@
+.DS_Store
+bin
+classes
+build
+gradle
+gradlew
+target
+src/main/test
